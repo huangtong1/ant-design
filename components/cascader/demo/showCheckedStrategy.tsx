@@ -56,7 +56,7 @@ const App: React.FC = () => {
         maxTagCount="responsive"
         showCheckedStrategy={SHOW_CHILD}
         defaultValue={[
-          ['bamboo', 'little', 'fish'],
+          ['banban', 'little', 'fish'],
           ['bamboo', 'little', 'cards'],
           ['bamboo', 'little', 'bird'],
         ]}
